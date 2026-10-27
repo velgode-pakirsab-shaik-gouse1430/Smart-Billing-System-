@@ -54,21 +54,4 @@ billing-system/
 
 ---
 
-## 🏃‍♂️ How to Run the Application
-
-You can open the application directly in any modern web browser:
-
-1. Navigate to:
-   ```
-   C:\Users\hp\.gemini\antigravity\scratch\billing-system
-   ```
-2. Double-click `index.html` to open it in Chrome, Edge, Firefox, or Safari.
-3. Or launch a local development server using Python or Node:
-   ```bash
-   # Using Python 3:
-   python -m http.server 8080
-
-   # Or using npx serve:
-   npx serve .
-   ```
-   Then open `http://localhost:8080` in your browser.
+ 
